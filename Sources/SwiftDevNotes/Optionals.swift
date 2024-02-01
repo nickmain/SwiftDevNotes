@@ -4,7 +4,7 @@ import Foundation
 
 /// Allow "where" clauses to specify that a type is Optional.
 ///
-/// `Optional` cannot be directly used as a where-constraint but it can
+/// `Optional` cannot be directly used as a where-constraint but this can
 /// be achieved by conforming it to `IsOptional`.
 ///
 /// This protocol also allows "casting" the wrapped value to an optional
