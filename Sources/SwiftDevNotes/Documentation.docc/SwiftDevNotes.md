@@ -3,6 +3,8 @@
 An ongoing collection of notes and example code for interesting and obscure features
 of the Swift programming language and the SwiftUI framework.
 
+[Source code at Github](https://github.com/nickmain/SwiftDevNotes)
+
 ## Topics
 
 ### Swift Type System
