@@ -9,6 +9,7 @@ of the Swift programming language and the SwiftUI framework.
 
 - ``ProtocolWithOptionalMethods``
 - ``IsOptional``
+- ``NonCopyable``
 
 ### Pattern Matching
 
@@ -35,6 +36,7 @@ TODO
 
 TODO
 
-### Custom Executors
+### Concurrency
 
-TODO
+- ``CustomExecutorActor``
+- ``TaskLocals``
